@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nikita Abuya
+      Hello, I’m Nikita Abuya
 - 🌱 I’m currently learning programming
 - 📫 You can reach me on abuyanikita@gmail.com
 
